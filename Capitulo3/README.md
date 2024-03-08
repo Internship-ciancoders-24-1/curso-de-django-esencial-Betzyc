@@ -95,4 +95,5 @@ platzi_users = User.objects.filter(email__endswith = '@platzi.com').update(is_ad
 ### Implementación de modelo usuario
 
 ![] (Capitulo3/4.impl-mod-user-cod.png)
+
 ![] (Capitulo3/4.impl-mod-user.png)
